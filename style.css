@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #1B1BB3;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    margin: 20px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+  
+    
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: rgb(255, 255, 255);
+    padding:10px 10px 10px 10px ;
+    width: 400px;
+    margin: 60px 60px 60px 60px ;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #1B1BB3;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin:35px 60px 35px 60px;
+    padding: 10px 75px 10px 75px;
+    justify-content: center;
+}
+
+footer {
+    background-color: #1B1BB3;
+    padding: ;
+}
+  footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
